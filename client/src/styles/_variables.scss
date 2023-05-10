@@ -1,0 +1,14 @@
+$primary: #e45252;
+$alt-dark:  #a53a3a;
+$alt-light:  #f08686;
+$shadow: #989a9ca1;
+$border: #e8e8e8;
+$background-grey: #f3f3f3;
+
+@mixin box-content{
+    border: 1px solid $border;
+    border-radius: 6px;
+    background-color: #fff;
+    margin: 0.5em 0em;
+    padding: 0px 10px;
+}

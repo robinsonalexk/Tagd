@@ -1,0 +1,69 @@
+.main{
+    margin: auto;
+    padding: 1em;
+}
+
+.add-post-button{
+    position: fixed;
+    bottom: 2.5%;
+    right: 2.5%;
+}
+
+.home{
+    display: flex;
+    flex-direction: row;
+}
+
+.post-feed{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 70%;
+    padding-right: 10px;
+}
+
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+.right-align{
+    float: right;
+}
+
+.left-align{
+    float: left;
+}
+
+.bottom-align{
+    display: flex;
+    align-self: flex-end;
+    flex-direction: column-reverse;
+    height: 100%;
+    
+}
+
+.fit-to-size{
+    width: 100%;
+}
+
+.post-info{
+    display: flex;
+}
+
+.user-window{
+    display: flex;
+    margin-right: 20px;
+}
+
+.new-post-section{
+    min-width: 40em;
+    max-width: 60em;
+    width: 100%;
+}
+
+.top-bottom-spacer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
