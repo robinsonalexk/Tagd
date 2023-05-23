@@ -7,5 +7,5 @@ This project continues as a WIP but is currently in a semi functional state (i.e
 
 # Current Todo
 - Implementation of users
-- Replies/Comment threats
+- Replies/Comment threads
 - General beautification
